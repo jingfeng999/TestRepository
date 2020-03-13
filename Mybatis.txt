@@ -1,1 +1,2 @@
-Mybatis v1
+Mybatis v2
+这SSM框架中处理持久层的很赞尼nice的框架，但是我学不会
