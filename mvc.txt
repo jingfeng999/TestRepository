@@ -1,2 +1,2 @@
-删掉v1版本，现在是Springmvc v2
+springmvc v2
 再加一条注释:mvc 是 model view controller 
