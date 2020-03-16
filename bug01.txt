@@ -1,5 +1,4 @@
 bug
 bug。txt
-sssssssss
-sssssssssss
-ssssssssss
+修复了一个主分支的bug
+bug 已经完全修复
